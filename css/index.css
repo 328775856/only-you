@@ -1,0 +1,25 @@
+.col-lg-6{
+	background:url(../images/bj.jpg) -540px;
+	background-repeat: no-repeat;
+	height: 1000px;
+}
+.col-lg-12{
+	background:url(../images/logo.png) 240px;
+	background-repeat: no-repeat;
+	height: 100px;
+}
+.ipt{
+     background:;
+     margin-top: 450px;
+}
+.row input{
+	width: 100em;
+	border: 0px;
+	border-radius: 0px;
+	height: 70px;
+}
+.row span{
+  	border: 0px;
+  	border-radius: 0px;
+  	width: 40px;
+}
