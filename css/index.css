@@ -1,12 +1,13 @@
 .bj{
-	background:url(../images/bj.jpg) -520px;
+	background:url(../images/bj.jpg);
 	background-repeat: no-repeat;
 	height: 1000px;
 }
 .icon{
-	background:url(../images/logo.png) 240px;
+	background:url(../images/logo.png);
 	background-repeat: no-repeat;
 	height: 100px;
+	margin-top: 180px;
 }
 .ipt{
      background:;
